@@ -1,0 +1,7 @@
+# Solution 07
+
+## Answer
+DDL: CREATE/ALTER/RENAME/TRUNCATE/DROP; DML: SELECT/INSERT/UPDATE/DELETE; DCL: GRANT/REVOKE; DQL: SELECT; TCL: START TRANSACTION/COMMIT/ROLLBACK.
+
+## Note
+নিজের SQL environment-এ query run করে output যাচাই করুন।
